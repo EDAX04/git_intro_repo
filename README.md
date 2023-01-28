@@ -1,3 +1,3 @@
 # Git Intro
 
-I'm using git.
+I'm using git!
